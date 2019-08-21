@@ -1,0 +1,17 @@
+Bubble = 1;
+Select = 2;
+Crescente:
+1 - 0,021s
+2 - 12,621s
+Decrescente:
+1 - 32,550s
+2 - 20,596
+Crescente Decrescente:
+1 - 14,267s
+2 - 14,550s
+Decrescente Crescente:
+1 - 14,310s
+2 - 14,505s
+Random:
+1 - 39,785s
+2 - 12,623s
